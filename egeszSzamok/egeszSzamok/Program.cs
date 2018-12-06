@@ -12,6 +12,7 @@ namespace egeszSzamok
         {
             int a;
             int b;
+            int c;
         }
     }
 }
